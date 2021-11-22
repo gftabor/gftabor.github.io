@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://gftabor.github.io/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/ll4ma_opt/</loc>
+    <loc>https://gftabor.github.io/project/ll4ma_opt/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/optimization/</loc>
+    <loc>https://gftabor.github.io/tag/optimization/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://gftabor.github.io/project/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://gftabor.github.io/tags/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://gftabor.github.io/publication-type/2/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/nature/</loc>
+    <loc>https://gftabor.github.io/publication/nature/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://gftabor.github.io/publication_types/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://gftabor.github.io/publication/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/motion-planning/</loc>
+    <loc>https://gftabor.github.io/tag/motion-planning/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/pathweaver-wpilib/</loc>
+    <loc>https://gftabor.github.io/project/pathweaver-wpilib/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://gftabor.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://gftabor.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/autonomous-vex-robotics/</loc>
+    <loc>https://gftabor.github.io/project/autonomous-vex-robotics/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/autonomy/</loc>
+    <loc>https://gftabor.github.io/tag/autonomy/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://gftabor.github.io/admin/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://gftabor.github.io/categories/</loc>
   </url>
 </urlset>
