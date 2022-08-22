@@ -5,12 +5,33 @@
     <link>https://gftabor.github.io/</link>
       <atom:link href="https://gftabor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Griffin Tabor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gftabor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Griffin Tabor</title>
       <link>https://gftabor.github.io/</link>
     </image>
+    
+    <item>
+      <title>Attracting Conductive Nonmagnetic Objects With Rotating Magnetic Dipole Fields </title>
+      <link>https://gftabor.github.io/publication/devin-ral/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://gftabor.github.io/publication/devin-ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Manipulation of Conductive, Nonmagnetic Objects via a Continuous Model of Magnetically Induced Force and Torque</title>
+      <link>https://gftabor.github.io/publication/rss/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gftabor.github.io/publication/rss/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SO8RpAspmQA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Ll4ma Optimization Package</title>
