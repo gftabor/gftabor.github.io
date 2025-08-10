@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Assistant Teaching Professor" />
+  <meta name="description" content="Many core problems in robotics can be framed as constrained optimization problems. Often on these problems, the robotic system has uncertainty, or it would be advantageous to identify multiple high quality feasible solutions. To enable this, we present two novel frameworks for applying principles of constrained optimization to the new variational inference algorithm Stein variational gradient descent. Our general framework supports multiple types of constrained optimizers and can handle arbitrary constraints. We demonstrate on a variety of problems that we are able to learn to approximate distributions without violating constraints. Specifically, we show that we can build distributions of: robot motion plans that exactly avoid collisions, robot arm joint angles on the SE(3) manifold with exact table placement constraints, and object poses from point clouds with table placement constraints." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://gftabor.github.io/categories/" />
+  <link rel="alternate" hreflang="en-us" href="https://gftabor.github.io/publication/stein/" />
 
   
 
@@ -268,8 +268,6 @@
   
 
   
-    <link rel="alternate" href="/categories/index.xml" type="application/rss+xml" title="Griffin Tabor" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -278,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://gftabor.github.io/categories/" />
+  <link rel="canonical" href="https://gftabor.github.io/publication/stein/" />
 
   
   
@@ -295,31 +293,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Griffin Tabor" />
-  <meta property="og:url" content="https://gftabor.github.io/categories/" />
-  <meta property="og:title" content="Categories | Griffin Tabor" />
-  <meta property="og:description" content="Assistant Teaching Professor" /><meta property="og:image" content="https://gftabor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://gftabor.github.io/publication/stein/" />
+  <meta property="og:title" content="Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification | Griffin Tabor" />
+  <meta property="og:description" content="Many core problems in robotics can be framed as constrained optimization problems. Often on these problems, the robotic system has uncertainty, or it would be advantageous to identify multiple high quality feasible solutions. To enable this, we present two novel frameworks for applying principles of constrained optimization to the new variational inference algorithm Stein variational gradient descent. Our general framework supports multiple types of constrained optimizers and can handle arbitrary constraints. We demonstrate on a variety of problems that we are able to learn to approximate distributions without violating constraints. Specifically, we show that we can build distributions of: robot motion plans that exactly avoid collisions, robot arm joint angles on the SE(3) manifold with exact table placement constraints, and object poses from point clouds with table placement constraints." /><meta property="og:image" content="https://gftabor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://gftabor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
+      <meta
+        property="article:published_time"
+        content="2025-05-31T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2025-05-31T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://gftabor.github.io/publication/stein/"
+  },
+  "headline": "Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification",
+  
+  "datePublished": "2025-05-31T00:00:00Z",
+  "dateModified": "2025-05-31T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Griffin Tabor"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Griffin Tabor",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gftabor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Many core problems in robotics can be framed as constrained optimization problems. Often on these problems, the robotic system has uncertainty, or it would be advantageous to identify multiple high quality feasible solutions. To enable this, we present two novel frameworks for applying principles of constrained optimization to the new variational inference algorithm Stein variational gradient descent. Our general framework supports multiple types of constrained optimizers and can handle arbitrary constraints. We demonstrate on a variety of problems that we are able to learn to approximate distributions without violating constraints. Specifically, we show that we can build distributions of: robot motion plans that exactly avoid collisions, robot arm joint angles on the SE(3) manifold with exact table placement constraints, and object poses from point clouds with table placement constraints."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Categories | Griffin Tabor</title>
+  <title>Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification | Griffin Tabor</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="cbb1f48d3545b6c24afd39a00e56305a" >
 
   
   
@@ -627,6 +674,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -635,27 +693,210 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Griffin Tabor</span>, <span >
+      Tucker Hermans</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Categories</h1>
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2506.00589" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
 
   
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Many core problems in robotics can be framed as constrained optimization problems. Often on these problems, the robotic system has uncertainty, or it would be advantageous to identify multiple high quality feasible solutions. To enable this, we present two novel frameworks for applying principles of constrained optimization to the new variational inference algorithm Stein variational gradient descent. Our general framework supports multiple types of constrained optimizers and can handle arbitrary constraints. We demonstrate on a variety of problems that we are able to learn to approximate distributions without violating constraints. Specifically, we show that we can build distributions of: robot motion plans that exactly avoid collisions, robot arm joint angles on the SE(3) manifold with exact table placement constraints, and object poses from point clouds with table placement constraints.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/X4Xp5dMr-DY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
 
-  
 
+
+
+
+  </div>
 </div>
   </div>
 
